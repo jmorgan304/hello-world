@@ -1,2 +1,2 @@
 # hello-world
-#Prospective CS Undergrad with about one year expereience in Python
+#Prospective CS Undergrad with about one year experience in Python
