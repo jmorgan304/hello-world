@@ -1,2 +1,2 @@
 # hello-world
-#Prospective CS Undergrad with about one year experience in Python
+Miami University: CS Major, Statistics Minor
